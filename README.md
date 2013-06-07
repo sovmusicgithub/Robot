@@ -1,0 +1,4 @@
+Robot
+=====
+
+common function demo
